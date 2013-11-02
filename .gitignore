@@ -29,3 +29,7 @@ silverstripe.log
 # comment out if you'll be committing the foundation theme to your git repo
 # also remove "rywa/silverstripe-foundation" from composer.json
 /themes
+
+# deployment
+dandelion,yml
+beam.json
