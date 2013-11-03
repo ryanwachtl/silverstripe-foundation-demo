@@ -4,7 +4,7 @@
  * @package mysite
  * @subpackage pagetypes
  */
-class Page extends SiteTree {
+class KitchenSink extends Page {
 
 	private static $db = array();
 
@@ -16,7 +16,7 @@ class Page extends SiteTree {
  * @package mysite
  * @subpackage controller
  */
-class Page_Controller extends ContentController {
+class KitchenSink_Controller extends Page_Controller {
 
 	/**
 	 * An array of actions that can be accessed via a request. Each array element should be an action name, and the
