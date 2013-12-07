@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "d792632d27e1980d921cbbba12eab7b888338d4c"
+                "reference": "c582dfd22e226d969ecffa6bb2db1b18e6b52845"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/d792632d27e1980d921cbbba12eab7b888338d4c",
-                "reference": "d792632d27e1980d921cbbba12eab7b888338d4c",
+                "url": "https://api.github.com/repos/composer/installers/zipball/c582dfd22e226d969ecffa6bb2db1b18e6b52845",
+                "reference": "c582dfd22e226d969ecffa6bb2db1b18e6b52845",
                 "shasum": ""
             },
             "replace": {
@@ -77,31 +77,34 @@
                 "wordpress",
                 "zend"
             ],
-            "time": "2013-10-24 16:13:49"
+            "time": "2013-12-02 16:11:03"
         },
         {
             "name": "rywa/silverstripe-foundation",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/ryanwachtl/silverstripe-foundation.git",
-                "reference": "8d5eefe254ccc161af0e0ce8f466412949b71c37"
+                "url": "https://github.com/ryanwachtl/silverstripe-foundation-theme.git",
+                "reference": "ebbaa9e9c8c5b200199b3b0c5b760b603fb5de83"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation/zipball/8d5eefe254ccc161af0e0ce8f466412949b71c37",
-                "reference": "8d5eefe254ccc161af0e0ce8f466412949b71c37",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/ebbaa9e9c8c5b200199b3b0c5b760b603fb5de83",
+                "reference": "ebbaa9e9c8c5b200199b3b0c5b760b603fb5de83",
                 "shasum": ""
             },
             "require": {
                 "composer/installers": "*",
                 "silverstripe/framework": "~3.0"
             },
+            "replace": {
+                "rywa/silverstripe-foundation": "self.version"
+            },
             "type": "silverstripe-theme",
             "extra": {
                 "installer-name": "foundation",
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "dev-master": "1.1.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -111,18 +114,18 @@
             "authors": [
                 {
                     "name": "Ryan Wachtl",
-                    "homepage": "http://ryanwachtl.com"
+                    "homepage": "http://ryan.wachtl.us"
                 }
             ],
-            "description": "SilverStripe prototyping theme based on Zurb Foundation",
+            "description": "Foundation 5 Prototyping Theme for SilverStripe",
             "keywords": [
                 "foundation",
                 "prototyping",
+                "responsive",
                 "silverstripe",
-                "theme",
-                "zurbfoundation"
+                "theme"
             ],
-            "time": "2013-11-01 23:24:33"
+            "time": "2013-12-07 01:05:27"
         },
         {
             "name": "rywa/silverstripe-foundation-forms",
@@ -130,12 +133,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ryanwachtl/silverstripe-foundation-forms.git",
-                "reference": "f73e2e1b69bb52acf769f53c4ada4b631c16395d"
+                "reference": "dbb606e3ad92f11448c32adbdfc5bc8f822f7b43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-forms/zipball/f73e2e1b69bb52acf769f53c4ada4b631c16395d",
-                "reference": "f73e2e1b69bb52acf769f53c4ada4b631c16395d",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-forms/zipball/dbb606e3ad92f11448c32adbdfc5bc8f822f7b43",
+                "reference": "dbb606e3ad92f11448c32adbdfc5bc8f822f7b43",
                 "shasum": ""
             },
             "require": {
@@ -162,20 +165,20 @@
                 "silverstripe",
                 "zurbfoundation"
             ],
-            "time": "2013-10-26 17:34:53"
+            "time": "2013-11-04 20:01:06"
         },
         {
             "name": "silverstripe/cms",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-cms.git",
-                "reference": "aa44e710d0a9ba2f12d9cd76883842d5a9d9121e"
+                "reference": "e2fa3b7f2c208af4a33e7176c1a950396d423f19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/aa44e710d0a9ba2f12d9cd76883842d5a9d9121e",
-                "reference": "aa44e710d0a9ba2f12d9cd76883842d5a9d9121e",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/e2fa3b7f2c208af4a33e7176c1a950396d423f19",
+                "reference": "e2fa3b7f2c208af4a33e7176c1a950396d423f19",
                 "shasum": ""
             },
             "require": {
@@ -209,20 +212,20 @@
                 "cms",
                 "silverstripe"
             ],
-            "time": "2013-10-07 12:28:12"
+            "time": "2013-11-07 23:59:07"
         },
         {
             "name": "silverstripe/framework",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-framework.git",
-                "reference": "d3b5b119425d66426477fb358d0f6b6fb3b355ee"
+                "reference": "054b35ded7674f13ccad4cec8fe38372e2a001df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/d3b5b119425d66426477fb358d0f6b6fb3b355ee",
-                "reference": "d3b5b119425d66426477fb358d0f6b6fb3b355ee",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/054b35ded7674f13ccad4cec8fe38372e2a001df",
+                "reference": "054b35ded7674f13ccad4cec8fe38372e2a001df",
                 "shasum": ""
             },
             "require": {
@@ -255,7 +258,7 @@
                 "framework",
                 "silverstripe"
             ],
-            "time": "2013-10-07 12:57:56"
+            "time": "2013-11-12 18:43:44"
         },
         {
             "name": "silverstripe/userforms",
@@ -263,17 +266,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "aa0f8dbc7bb5bfbaf93f60568c26005d86d71218"
+                "reference": "972ee075f6cade3113d9625a857c5883ac1fa8dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/aa0f8dbc7bb5bfbaf93f60568c26005d86d71218",
-                "reference": "aa0f8dbc7bb5bfbaf93f60568c26005d86d71218",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/972ee075f6cade3113d9625a857c5883ac1fa8dc",
+                "reference": "972ee075f6cade3113d9625a857c5883ac1fa8dc",
                 "shasum": ""
             },
             "require": {
-                "silverstripe/cms": "~3.1",
-                "silverstripe/framework": "~3.1"
+                "silverstripe/cms": ">=3.1.0",
+                "silverstripe/framework": ">=3.1.0"
             },
             "type": "silverstripe-module",
             "notification-url": "https://packagist.org/downloads/",
@@ -292,7 +295,7 @@
                 "silverstripe",
                 "userforms"
             ],
-            "time": "2013-10-30 13:31:51"
+            "time": "2013-12-05 06:34:18"
         }
     ],
     "packages-dev": [
