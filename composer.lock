@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "c582dfd22e226d969ecffa6bb2db1b18e6b52845"
+                "reference": "9a1fd4e191beaa5cab79c05f923d8bcdd01b4e94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/c582dfd22e226d969ecffa6bb2db1b18e6b52845",
-                "reference": "c582dfd22e226d969ecffa6bb2db1b18e6b52845",
+                "url": "https://api.github.com/repos/composer/installers/zipball/9a1fd4e191beaa5cab79c05f923d8bcdd01b4e94",
+                "reference": "9a1fd4e191beaa5cab79c05f923d8bcdd01b4e94",
                 "shasum": ""
             },
             "replace": {
@@ -53,31 +53,40 @@
             "description": "A multi-framework Composer library installer",
             "homepage": "http://composer.github.com/installers/",
             "keywords": [
-                "TYPO3 CMS",
-                "TYPO3 Flow",
-                "TYPO3 Neos",
+                "Craft",
+                "Hurad",
+                "MODX Evo",
+                "OXID",
                 "agl",
+                "annotatecms",
                 "cakephp",
                 "codeigniter",
                 "concrete5",
+                "croogo",
                 "drupal",
+                "elgg",
                 "fuelphp",
                 "installer",
                 "joomla",
                 "kohana",
                 "laravel",
-                "li3",
                 "lithium",
+                "magento",
                 "mako",
+                "mediawiki",
                 "modulework",
                 "phpbb",
+                "piwik",
                 "ppi",
+                "shopware",
                 "silverstripe",
                 "symfony",
+                "typo3",
                 "wordpress",
-                "zend"
+                "zend",
+                "zikula"
             ],
-            "time": "2013-12-02 16:11:03"
+            "time": "2014-02-12 21:21:55"
         },
         {
             "name": "rywa/silverstripe-foundation",
@@ -85,20 +94,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ryanwachtl/silverstripe-foundation-theme.git",
-                "reference": "ebbaa9e9c8c5b200199b3b0c5b760b603fb5de83"
+                "reference": "bc61709cbcb520e35da358a0097efd7c8c7c7f2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/ebbaa9e9c8c5b200199b3b0c5b760b603fb5de83",
-                "reference": "ebbaa9e9c8c5b200199b3b0c5b760b603fb5de83",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/bc61709cbcb520e35da358a0097efd7c8c7c7f2b",
+                "reference": "bc61709cbcb520e35da358a0097efd7c8c7c7f2b",
                 "shasum": ""
             },
             "require": {
                 "composer/installers": "*",
-                "silverstripe/framework": "~3.0"
-            },
-            "replace": {
-                "rywa/silverstripe-foundation": "self.version"
+                "silverstripe/framework": "~3.1"
             },
             "type": "silverstripe-theme",
             "extra": {
@@ -119,13 +125,13 @@
             ],
             "description": "Foundation 5 Prototyping Theme for SilverStripe",
             "keywords": [
-                "foundation",
+                "foundation theme",
                 "prototyping",
                 "responsive",
-                "silverstripe",
+                "silverstripe foundation",
                 "theme"
             ],
-            "time": "2013-12-07 01:05:27"
+            "time": "2014-02-22 22:56:13"
         },
         {
             "name": "rywa/silverstripe-foundation-forms",
@@ -133,12 +139,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ryanwachtl/silverstripe-foundation-forms.git",
-                "reference": "dbb606e3ad92f11448c32adbdfc5bc8f822f7b43"
+                "reference": "48a4e9c7943629e9e5385544dcabd83fc0621c15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-forms/zipball/dbb606e3ad92f11448c32adbdfc5bc8f822f7b43",
-                "reference": "dbb606e3ad92f11448c32adbdfc5bc8f822f7b43",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-forms/zipball/48a4e9c7943629e9e5385544dcabd83fc0621c15",
+                "reference": "48a4e9c7943629e9e5385544dcabd83fc0621c15",
                 "shasum": ""
             },
             "require": {
@@ -165,7 +171,7 @@
                 "silverstripe",
                 "zurbfoundation"
             ],
-            "time": "2013-11-04 20:01:06"
+            "time": "2014-02-22 22:15:47"
         },
         {
             "name": "silverstripe/cms",
@@ -266,12 +272,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "972ee075f6cade3113d9625a857c5883ac1fa8dc"
+                "reference": "97ff8b252c1e8709c42238d80ef25431f4c45d03"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/972ee075f6cade3113d9625a857c5883ac1fa8dc",
-                "reference": "972ee075f6cade3113d9625a857c5883ac1fa8dc",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/97ff8b252c1e8709c42238d80ef25431f4c45d03",
+                "reference": "97ff8b252c1e8709c42238d80ef25431f4c45d03",
                 "shasum": ""
             },
             "require": {
@@ -295,7 +301,7 @@
                 "silverstripe",
                 "userforms"
             ],
-            "time": "2013-12-05 06:34:18"
+            "time": "2014-02-17 10:02:19"
         }
     ],
     "packages-dev": [
