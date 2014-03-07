@@ -95,12 +95,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ryanwachtl/silverstripe-foundation-theme.git",
-                "reference": "c0d9f8eb19222f4c5eb6e1b38c110b9d00b8b26f"
+                "reference": "05a5b225728bba62d31d1a644d248effab86dc5e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/c0d9f8eb19222f4c5eb6e1b38c110b9d00b8b26f",
-                "reference": "c0d9f8eb19222f4c5eb6e1b38c110b9d00b8b26f",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/05a5b225728bba62d31d1a644d248effab86dc5e",
+                "reference": "05a5b225728bba62d31d1a644d248effab86dc5e",
                 "shasum": ""
             },
             "require": {
@@ -132,7 +132,7 @@
                 "silverstripe foundation",
                 "theme"
             ],
-            "time": "2014-03-06 20:35:08"
+            "time": "2014-03-07 18:33:29"
         },
         {
             "name": "rywa/silverstripe-foundation-forms",
