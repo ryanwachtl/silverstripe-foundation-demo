@@ -11,12 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "848de789c66ac609e7b2862c3500dd708afb72ce"
+                "reference": "cb0cf453ed771b5626c09be0430cf388d84d0970"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/848de789c66ac609e7b2862c3500dd708afb72ce",
-                "reference": "848de789c66ac609e7b2862c3500dd708afb72ce",
+                "url": "https://api.github.com/repos/composer/installers/zipball/cb0cf453ed771b5626c09be0430cf388d84d0970",
+                "reference": "cb0cf453ed771b5626c09be0430cf388d84d0970",
                 "shasum": ""
             },
             "replace": {
@@ -87,7 +87,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2014-03-04 04:29:18"
+            "time": "2014-04-04 18:47:10"
         },
         {
             "name": "rywa/silverstripe-foundation",
@@ -95,12 +95,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ryanwachtl/silverstripe-foundation-theme.git",
-                "reference": "05a5b225728bba62d31d1a644d248effab86dc5e"
+                "reference": "7d25e733006e5ff2862fe7ac09a0f7bb08532598"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/05a5b225728bba62d31d1a644d248effab86dc5e",
-                "reference": "05a5b225728bba62d31d1a644d248effab86dc5e",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-theme/zipball/7d25e733006e5ff2862fe7ac09a0f7bb08532598",
+                "reference": "7d25e733006e5ff2862fe7ac09a0f7bb08532598",
                 "shasum": ""
             },
             "require": {
@@ -132,7 +132,7 @@
                 "silverstripe foundation",
                 "theme"
             ],
-            "time": "2014-03-07 18:33:29"
+            "time": "2014-04-06 19:57:01"
         },
         {
             "name": "rywa/silverstripe-foundation-forms",
@@ -273,12 +273,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "45e4b1c037b9ab1eaab03de4154a16f31856ea9d"
+                "reference": "d8295c2a27539b7d807dfd8113e13b8b57391797"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/45e4b1c037b9ab1eaab03de4154a16f31856ea9d",
-                "reference": "45e4b1c037b9ab1eaab03de4154a16f31856ea9d",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/d8295c2a27539b7d807dfd8113e13b8b57391797",
+                "reference": "d8295c2a27539b7d807dfd8113e13b8b57391797",
                 "shasum": ""
             },
             "require": {
@@ -302,7 +302,7 @@
                 "silverstripe",
                 "userforms"
             ],
-            "time": "2014-02-27 05:21:31"
+            "time": "2014-03-31 16:17:38"
         }
     ],
     "packages-dev": [
