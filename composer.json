@@ -22,7 +22,7 @@
 		"silverstripe/taxonomy": "Provide extra taxonomy for cataloguing the data.",
 		"unclecheese/betterbuttons": "Adds new form actions and buttons to GridField detail form for usability enhancements.",
 		"unclecheese/event-calendar": "Event Calendar for the SilverStripe CMS",
-		"ajshort/silverstripe-gridfieldextensions": "A collection of useful grid field components"
+		"silverstripe-australia/silverstripe-gridfieldextensions": "A collection of useful grid field components"
 	},
 	"config": {
 		"process-timeout": 1200
