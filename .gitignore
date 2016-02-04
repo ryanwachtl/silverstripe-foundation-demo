@@ -24,6 +24,7 @@ silverstripe.log
 /reports
 /userforms
 /sqlite3
+/siteconfig
 
 # ignore themes
 # comment out if you'll be committing the foundation theme to your git repo

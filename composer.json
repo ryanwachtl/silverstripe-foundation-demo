@@ -3,11 +3,11 @@
 	"description": "A Composer-based SilverStripe Framework and CMS Project",
 	"require": {
 		"php": ">=5.3.2",
-		"silverstripe/framework": "3.1.x@stable",
-		"silverstripe/cms": "3.1.x@stable",
+		"silverstripe/framework": "3.2.x@stable",
+		"silverstripe/cms": "3.2.x@stable",
 		"rywa/silverstripe-foundation": "1.x",
 		"rywa/silverstripe-foundation-forms": "dev-master",
-		"silverstripe/userforms": "dev-master"
+		"silverstripe/userforms": "2.0.10"
 	},
 	"require-dev": {
 		"ccampbell/chromephp": "4.1.0"
